@@ -1,4 +1,3 @@
-````md
 # Account Management System API
 
 ![.NET](https://img.shields.io/badge/.NET-10.0-blueviolet)
